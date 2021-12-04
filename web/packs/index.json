@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "FunnyPanda.json"
+  ],
+  "homeserver_url": "https://matrix.hirad.it"
+}
