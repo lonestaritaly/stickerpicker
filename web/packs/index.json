@@ -1,7 +1,9 @@
 {
   "packs": [
     "FunnyPanda.json",
-    "Homer_Jay_Simpson.json"
+    "Homer_Jay_Simpson.json",
+    "LovelyGiantPandas.json",
+    "CuteGrumptyCat.json"
   ],
   "homeserver_url": "https://matrix.hirad.it"
 }
